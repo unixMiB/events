@@ -7,7 +7,8 @@ This repository contains slides and other material released during events
 ## Event categories
 
 - [Thank God It's Firday](Thank%20God%20Its%20Friday)
-- [Red Hat System Administrator](Red%20Hat%20System%20Administration)
+- [Linux Day Milano 2019](Linux%20Day%20Milano%202019)
+- Red Hat System Administrator (Currently unavailable)
 
 ## License
 
